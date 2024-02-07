@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Logic-Brawl 👋</h1>
 
 Open source Brawl Stars server emulator for version 19 of the game!
-
-
+This Version Is Not Original Its Just A Copy Of Classic Brawl
+I Just Modded It I Think I Hope Dont Get Copyright If you want the original v19 Just go to PhoenixFire6939 Classic Brawl Repo And Go To The V19 Branch And Enjoy, Scroll Down For Credits
 ![ScreenShot](https://cdn.discordapp.com/attachments/1193175114703962134/1204731323298877450/Screenshot_20240207_071156.jpg?ex=65d5cc7a&is=65c3577a&hm=fd3aa92ea4d7ef0bf0e51cdc3a5df038db2aaf2d21a06bfa3fdd2538a3fcb67b&) 
 
 
