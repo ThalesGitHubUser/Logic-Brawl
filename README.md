@@ -1,24 +1,25 @@
-<h1 align="center">Welcome to Classic-Brawl 👋</h1>
+<h1 align="center">Welcome to Logic-Brawl 👋</h1>
 
-Open source Brawl Stars server emulator for version 26 of the game!
+Open source Brawl Stars server emulator for version 19 of the game!
 
 
-![ScreenShot](https://cdn.discordapp.com/attachments/704364452891590778/789482341209866280/Screenshot_20201218-151815_Brawl_Client.jpg) 
+![ScreenShot](https://cdn.discordapp.com/attachments/1193175114703962134/1204731323298877450/Screenshot_20240207_071156.jpg?ex=65d5cc7a&is=65c3577a&hm=fd3aa92ea4d7ef0bf0e51cdc3a5df038db2aaf2d21a06bfa3fdd2538a3fcb67b&) 
 
 
 ## What's working ?
 - Battles
-  - Trophies in offline battles
+  - Trophies in offline battles/Friendly Battles
 - Home
   - Unlimited resources
   - Brawlers from boxes  
   - All skins unlocked
   - Gadgets and Star Powers
+  - You can edit the resources
 - Shop
   - Special offers
   - Boxes
   - Gold and other resources 
-- Club
+- Club Logic
   - Join
   - Leave
   - Chat
@@ -57,10 +58,9 @@ Open source Brawl Stars server emulator for version 26 of the game!
 
 ## Configure client
 To connect to your server, you need a custom client APK:
-- [v26.165](https://mega.nz/file/iGIGkT7S#PnbYOskUa0PGtbry4dcK1ugViwRsbGiDzP92i39KvH4)
-- [v26.184](https://mega.nz/file/XeBTXCBB#BN6B9-FcMqn19w6SkgxVgShFwWx1Qb55tgydIL1oLDI)
+- [v19.102](https://mega.nz/file/hQETlKyS#lPigz46_DCNIdI3g16e6AJqBJ0oFTpVEU02FroiMGcM)
 
-You'll have to replace the IP in the frida-gadget config with yours (```/lib/armeabi-v7a/libcb.config.so```) ```{"interaction":{"interaction":{"type":"script","path":"libcb.script.so","on_change":"reload","parameters":{"redirectHost":"YOUR_IP"}}}```
+You'll have to replace the IP in the frida-gadget config with yours (```/lib/armeabi-v7a/libgg.config.so```) ```{"interaction":{"interaction":{"type":"script","path":"libscript.so","on_change":"reload","parameters":{"redirectHost":"YOUR_IP"}}}```
 
 
 
